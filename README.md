@@ -1,2 +1,3 @@
 # hello-world
-Meu repositório de idéias, recursos e discussões.
+Minha ficção sobre filosofia quantica multidimencional.
+
